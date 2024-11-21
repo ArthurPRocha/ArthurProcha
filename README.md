@@ -11,7 +11,7 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
-### Back-end
+### Back-End
 <div style="display: inline_block">
   <img align="center" alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img align="center" alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
