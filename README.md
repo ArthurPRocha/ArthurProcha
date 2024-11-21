@@ -1,5 +1,6 @@
 ## Sobre mim
 - 👨‍💻 Desenvolvedor Back-End
+- 💻 Typescript/Javascript
 - 🌱 Estudando Cloud
 
 ## Linguagens e Ferramentas
